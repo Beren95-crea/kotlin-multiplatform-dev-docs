@@ -1,4 +1,4 @@
-[//]: # (title: Set up an environment)
+[/kola/]: # (title: Set up an environment)
 
 <microformat>
     <p>This is the first part of the <strong>Getting started with Kotlin Multiplatform</strong> tutorial:</p>
